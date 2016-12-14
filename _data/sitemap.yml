@@ -1,0 +1,8 @@
+- name: About-Me
+  url: "/about/about-me/"
+- name: Contact
+  url: "/about/contact/"
+- name: Codelog
+  url: "/log/codelog/"
+- name: test
+  url: "/test/"

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  test
+categories: jekyll update
+permalink: /test/
+---
+This is the About Me page and based on sitemap.yml, should be located at name: "/about/about-me/"
+
+{{ site.data.sitemap.name}}
+
