@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Plugin Hook test
+categories: jekyll update
+categories: first-tag/hi
+permalink: /old/
+---
+page title: {{page.title}}
+
+
+permalink: {{page.permalink}}
+
+page.url: {{page.url}}
+
+frontmatter: {{page.frontmatter}}
+
+<!-- REPLACE:ME -->

@@ -29,7 +29,10 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - front_matter_parser
 exclude:
   - Gemfile
   - Gemfile.lock
 
+# Joi's custom settings
+port: 4002

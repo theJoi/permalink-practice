@@ -1,8 +1,4 @@
-- name: About-Me
-  url: "/about/about-me/"
-- name: Contact
-  url: "/about/contact/"
-- name: Codelog
-  url: "/log/codelog/"
-- name: test
-  url: "/test/"
+About-Me: "/about/about-me/"
+Contact: "/about/contact/"
+Codelog: "/log/codelog/"
+test: "/test/"

@@ -2,7 +2,10 @@
 layout: post
 title:  "About Me"
 categories: jekyll update
+
 ---
 This is the About Me page and based on sitemap.yml, should be located at name: "/about/about-me/"
 
-{{ site.data.sitemap.name}}
+<!-- REPLACE:ME -->
+
+goodbye.
