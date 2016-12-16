@@ -36,3 +36,4 @@ exclude:
 
 # Joi's custom settings
 port: 4002
+permalink: /:slug/

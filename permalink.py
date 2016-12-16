@@ -1,12 +1,17 @@
 import re
 import os
+import json
+import codecs
 
-print "Starting script.."
-#with open("_data/sitemap.")
+print "Starting script and reading in _data/sitemap.json ...."
+# Grab sitemap data
+with codecs.open("_data/sitemap.json", "r", "utf-8") as data:
+    sitemap = json.load(data)
 
+# Loop through all files in _post directory
 files = os.listdir("_posts")
 for file in files:
-    print "Opening %s..." % file
+    print "  Opening %s..." % file
     with open("_posts/" + file, "r") as f:
 
       content = f.read()
@@ -17,23 +22,26 @@ for file in files:
       if permalinks:
         permalink = permalinks[0]
         permalink = permalink[len("permalink: "): -1]
-        print "  Permalink already set to: %s" % permalink
+        print "    Permalink already set to: %s" % permalink
       else :
         title = re.findall("title:.+\n", content)[0]
         title = title[len("title: "): -1]
 
-        # For now, just gonna make the permalink to the title for testing purposes
-        url = "permalink: /%s/" % title
-        pos = content.find("---")
-        pos = content.find("---", pos+1)
-        content = content[0:pos] + url + content[pos:]
+        # Check if url is in sitemap data
+        if title in sitemap:
+            url = "permalink: %s\n" % sitemap[title]
+            pos = content.find("---")
+            pos = content.find("---", pos+1)
+            content = content[0:pos] + url + content[pos:]
 
-        with open("_posts/" + file, "w") as f:
-          f.write(content)
-          print "  No permalink already present, set to: ", url
+            with open("_posts/" + file, "w") as f:
+                f.write(content)
+                print "    No permalink already present, set to: %s" % sitemap[title]
+        else:
+            print "    No permalink already present, nor in sitemap. Leaving as default."
 
-#    url = LOOKUP_IN_DATA(title)
-#
+
+
 
 
 print "END :)"

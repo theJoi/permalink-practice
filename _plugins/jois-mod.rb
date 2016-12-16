@@ -10,6 +10,4 @@
 #  LIQUID
 #end
 
-require 'yaml'
-thing = YAML.load_file('2016-12-14-test2.markdown')
-print thing.inspect
+

@@ -2,7 +2,8 @@
 layout: post
 title: about-me
 categories: jekyll update
-permalink: /about-me/---
+permalink: /about-me/
+---
 This is the About Me page and based on sitemap.yml, should be located at name: "/about/about-me/"
 
 <!-- REPLACE:ME -->
