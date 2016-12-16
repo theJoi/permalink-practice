@@ -1,10 +1,19 @@
 ---
 layout: post
-title:  test
+title: Variable Test
 categories: jekyll update
-permalink: /test/
+permalink: /hi-test/
+greetings: 'We should be at the following url: !SITE_URL!'
+categories: first-tag/hi
 ---
-This is the About Me page and based on sitemap.yml, should be located at name: "/about/about-me/"
+This is the About Me page and based on sitemap.yml, should be located at name: {{page.permalink}}
 
-{{ site.data.sitemap.name}}
+page title: {{page.title}}
 
+sitemap: {{site.data.sitemap}}
+
+url?: {{ site.data.sitemap[page.title] }}
+
+page.url: {{page.my-url}}
+
+{{ page.greetings | replace: '!SITE_URL!', page.url}}
