@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  Plugin Hook test
+title: Plugin-Hook-test
 categories: jekyll update
 categories: first-tag/hi
-permalink: /old/
----
+permalink: /Plugin-Hook-test/---
 page title: {{page.title}}
-
-
-permalink: {{page.permalink}}
 
 page.url: {{page.url}}
 

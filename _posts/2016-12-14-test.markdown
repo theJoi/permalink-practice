@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Variable Test
+title: Variable Test
 categories: jekyll update
 permalink: /hi-test/
 greetings: 'We should be at the following url: !SITE_URL!'
