@@ -1,0 +1,269 @@
+---
+layout: post
+title: NDI V2
+joomla_id: 1359
+joomla_url: ndi-v2
+date: 2015-11-16 17:13:45.000000000 -06:00
+---
+<link rel="stylesheet" type="text/css" href="/templates/newtekv2/css/custom/ndi.css" />
+<style scoped="scoped" type="text/css">
+	<!-- .sig {
+		float: right;
+		text-align:right;
+		padding-top: 2em;
+	}
+	.full-feature p.sig:before {
+		background: none;
+	}
+	.sigContent1 {
+		text-align:justify;
+	}
+	.sigContent2 {
+		text-align:justify;
+	}
+	.sigContent3 {
+		text-align:justify;
+	}
+	-->
+</style>
+<div class="frame2">
+	<div class="centered-content">
+		<h2>Complete access, control, and creativity over IP.</h2>
+		<p>Release your video productions from the technical and physical limitations of standard broadcast infrastructures. Easily transition to video over IP with NDI, NewTek’s innovative Network Device Interface technology, and ready-to-use software enabling interconnected production workflows.</p>
+	</div>
+</div>
+<div class="full-features-container clearfix">
+	<div class="full-feature">
+		<h3>Remove Routing Constraints</h3>
+		<p>Produce your shows in a completely new way—using sources from all over your network, not just what’s physically patched into your SDI video router. NewTek NDI is an open standard anyone can implement to connect video equipment across a network. Your production switcher, capture system, media server—any NDI-enabled device on the network—can see and access content from all other devices, allowing more sources than ever before to be used for live production.</p>
+	</div>
+	<div class="full-feature">
+		<h3>Reduce Costs (and Deployment Time)</h3>
+		<p>Forget about investing in completely new facilities, networks, or signal infrastructures. NewTek NDI is built on a sophisticated foundation that can send and receive vast amounts of information using a familiar standard: the Ethernet-based LAN. With NDI’s unprecedented encoding efficiency and performance, your network can accommodate multiple simultaneous, high-quality, ultra-low latency video streams.</p>
+	</div>
+</div>
+<div class="cta-bar padding-bleed">
+	<div class="centered-content" style="margin-bottom: 1.75em; margin-top: .5em;">
+		<h2 style="font-size: 46px; line-height: 50px; float: none;">A whole new production environment</h2>
+	</div>
+	<div class="container">
+		<div class="ip-video-intro span6"><iframe id="ip-video-intro" src="https://player.vimeo.com/video/137855231" width="585" height="374" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="allowfullscreen" style="height: 356.48px;"></iframe>
+			<script type="text/javascript">
+				NEWTEKV2.scale_video('ip-video-intro', 32 / 50)
+			</script>
+		</div>
+		<div class="span5" style="margin-left: 5%; margin-top: 1%;">
+			<p style="font-size: 1.5em; line-height: 1.25em; text-align: left;">
+				<!--<span style="font-size: 1.5em;">“</span>...never again worry about having enough inputs. Free your live productions from the constraints of hardware connections and miles of cable. Avoid costly investments in excessive bandwidth. ”-->In a single, interconnected production environment, where any device can connect to every other device—and every source is also a destination—live production has limitless possibilities.<br /><br />The future of live production is at NewTek today. Get started with NDI.</p>
+			<!-- <p>
+		  The future of live production is at NewTek today. Get started with NDI.
+		  </p>-->
+			<!--<p>Explore the limitless live production possibilities at your fingertips when you can access, route, and switch live over IP. With a workflow built on the Network Device Interface (NDI)™ protocol, you can access any video source. Anywhere on the network. NewTek’s Advanced IP Workflow.</p>--><a href="http://pages.newtek.com/NDI-Getting-Started.html" class="cta" style="margin-top: 5%;">Learn More</a>
+		</div>
+	</div>
+</div>
+<div class="padding-bleed"><img class="large-graphic" alt=" " title="" src="/images/misc-ndi-full-page-graphic.jpg" />
+</div>
+<div class="full-features-container clearfix">
+	<div class="full-feature">
+		<h3>Envision New Workflows</h3>
+		<p>If affordable, everyday IT systems can communicate with each other, sending and receiving data across a network, why should video production over IP be any different? NDI is more than an IP-based replacement for SDI, sending a one-way signal to a switcher. It’s a bi-directional standard, not only enabling you to share video and audio over IP, but to send and receive multiple input and output signals between devices on your network—making a completely connected facility entirely possible.</p>
+	</div>
+	<div class="full-feature">
+		<h3>Leap into the Future Today</h3>
+		<p>Future-proof your production environment, taking advantage of technology advancements, while protecting your current investments. Compatible with existing SDI and IP-based technologies, and independent of changing specifications and formats, NDI will also support integration with ASPEN, SMPTE 2022, and other emerging standards. And with a license-free SDK, developers and video producers can make any of their computer-based production devices IP-ready, joining hundreds of companies that have adopted NDI and incorporated it into solutions that are currently in the hands of more than one million users.</p>
+	</div>
+</div>
+<div class="centered-content">
+	<h2>Transition to video production over IP.</h2>
+	<p>Using your existing equipment, network, and NewTek NDI video production software, you can start producing video over IP immediately.</p>
+</div>
+<div class="buckets-medium clearfix" style="margin-bottom: 30px;">
+	<!--<div class="bucket">
+		<div class="content-container">
+			<h3><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> Connect</h3>
+			<p>Multiply your sources—and connectivity options—with this multi-purpose software client that allows you to configure a computer as a multi-channel video server with up to 2 NDI-enabled video sources and webcam input.</p>
+		</div>
+		<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-Connect-Download.html" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>
+		<hr class="thick blue" />
+		<h3 style="border-bottom: none; padding-bottom: 0;">NewTek Connect Pro</h3>
+		<p>Utilize additional professional video capabilities with NewTek Connect Pro.</p>
+		<div class="align-center cta-container"><a href="/software/ndi-connect" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<div class="bucket">
+		<div class="content-container">
+			<h3 style="font-size: 20px;"><img alt="NewTek NDI (Network Device Interface)" title="" src="/images/header-ndi-logo.png" /> for Adobe<sup style="font-size: .45em; top: -.95em;">®</sup> Creative Cloud<sup style="font-size: .45em; top: -.95em;">®</sup>
+			</h3>
+			<p>Review and approve creative content from anywhere on your network, and incorporate full-resolution Adobe Creative Cloud projects into your live productions—directly from the timeline.</p>
+		</div>-->
+	<!--<div class="align-center cta-container" style="margin-left: 7px;"><a href="#" class="arrow-cta"><span style="padding-right: 6px;">Download&nbsp;</span><span class="cta-arrow"></span></a>
+		</div>-->
+	<!--<div class="align-center cta-container"><a href="/software/adobecc" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<div class="bucket">
+		<div class="content-container">
+			<h3><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> IsoCorder™</h3>
+			<p>Expand your multi-channel recording capabilities to capture more productions, media files, and raw footage. NDI IsoCorder records and encodes up to 2 sources in high-quality QuickTime format and includes stereo audio.</p>
+		</div>
+		<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-IsoCorder_Download.html" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>
+		<hr class="thick blue" />
+		<h3 style="border-bottom: none; padding-bottom: 0; font-size: 22.9px;">NewTek IsoCorder Pro</h3>
+		<p>Utilize additional professional video capabilities with NewTek IsoCorder Pro.</p>
+		<div class="align-center cta-container"><a href="/software/ndi-isocorder" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<div class="bucket">
+		<div class="content-container">
+			<h3><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> Transmit</h3>
+			<p>Upgrade your video conferencing and communications. NDI Transmit makes NDI sources available for use with video-compatible 3rd party software that supports a webcam input, replacing low-quality webcam video with high-quality NDI video.</p>
+		</div>
+		<div class="align-center cta-container"><a href="/software/transmit" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<div class="bucket">
+		<div class="content-container">
+			<h3><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> Telestrator</h3>
+			<p>Transform sports broadcasts and other live productions with real-time visual analysis, enhancing coverage and commentary with the ability to draw, diagram, and apply graphics to any NDI video source or still image.</p>
+		</div>-->
+	<!--<div class="align-center cta-container" style="margin-left: 7px;"><a href="#" class="arrow-cta"><span style="padding-right: 6px;">Download&nbsp;</span><span class="cta-arrow"></span></a>
+		</div>-->
+	<!--LEAVE<div class="align-center cta-container"><a href="/software/telestrator" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>-->
+	<!--<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-Transmit-Demo-Download.html" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>Closing</div>-->
+	<div class="bucket">
+		<div class="content-container">
+			<h3 class="subheading3"><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" />Tools Pack</h3>
+			<p>Use more devices, applications and files in your workflow, switch more content into your shows, organize your NDI sources, and more with the NDI Tools Pack. These distinctly powerful tools will help you get started with NDI and transition to an IP-based workflow.</p>
+		</div>
+		<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-Tools-Pack-Download.html" target="_blank" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<!--<div class="bucket">
+		<div class="content-container">
+			<h3><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> AirSend™ Updater</h3>
+			<p>Bridge your existing video workflow to an NDI production workflow. Use NDI AirSend Updater to enable NDI on any 3rd party system, device, or application that uses AirSend to deliver video or graphics over IP, allowing you to access additional sources.</p>
+		</div>
+		<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-Upgrader-Download.html" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>
+	</div>-->
+	<!--APPLICATIONS-->
+	<div class="bucket">
+		<div class="content-container">
+			<h3 class="subheading3"><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> Applications</h3>
+			<p>Start constructing your live IP video production workflow with the growing suite of NDI software, tools, and utilities from NewTek and the NewTek Developer Network. Expand your multi-source live IP capabilities. Find new ways to share and access sources. And much, much more.</p>
+		</div>
+		<div class="align-center cta-container"><a href="/ndi/applications" class="arrow-cta">Learn More<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+	<!--END APPLICATIONS-->
+	<div class="bucket">
+		<div class="content-container">
+			<h3 class="subheading3"><img alt="NewTek NDI (Network Device Interface)" title="" src="{{site.url}}/images/header-ndi-logo.png" /> Software Developer Kit (SDK)</h3>
+			<p>Build an IP video production network specific to your shows, your needs, and your equipment. Download the NewTek NDI SDK to enhance your production equipment and accelerate your workflow into the IP future.</p>
+		</div>
+		<div class="align-center cta-container"><a href="http://pages.newtek.com/NDI-Developers.html" target="_blank" class="arrow-cta">Download<span class="cta-arrow"></span></a>
+		</div>
+	</div>
+</div>
+<div class="centered-content" style="padding-top: 0em; padding-bottom: 1em;"><img src="/images/coming-soon-itunes-google.jpg" border="0" />
+</div>
+<div class="centered-content">
+	<h2>What The Industry Is Saying</h2>
+</div>
+<div class="full-features-container clearfix" style="background-color: #fff; padding-bottom: 10px;">
+	<div class="full-feature">
+		<h3>Adobe Pro Video</h3>
+		<p class="sigContent1">“Adobe Creative Cloud users appreciate our advanced tools which help them be their most creative. NewTek NDI for the Adobe Creative Cloud plug in delivers the efficiency that content creators need to help them do great work in today’s fast-paced production environments. It also opens the door for editors and producers who want to bring the streamlined power of Adobe Premiere Pro CC into their live production workflows.“</p>
+		<p class="sig">— Sue Skidmore, Head of Partner Relations</p>
+	</div>
+	<div class="full-feature">
+		<h3>JVC Professional Video</h3>
+		<p class="sigContent1">“NewTek’s initiative to unify video-over-IP protocols to create plug-and-play environment for various products and platforms cannot be underestimated. JVC pioneered streaming camcorders more than 10 years ago and now, we are very excited to bridge our complete product line of professional cameras with NDI protocol. Our customers who are already enjoying the ability to move broadcast-quality video over IP will greatly benefit from our collaboration with NewTek.”</p>
+		<p class="sig">— Edgar Shane, General Manager of Engineering</p>
+	</div>
+</div>
+<div class="full-features-container clearfix">
+	<div class="full-feature">
+		<h3>Evertz</h3>
+		<p class="sigContent2">“With over 40 global installations of Evertz SDVN, the addition of NDI support will expand that install base. By supporting NDI, media companies deploying IP live production can leverage an open architecture that handles small webcast productions to large UHD productions seamlessly. The inclusion of NDI in our SDVN solution also maintains our commitment to support open formats that are proven to work including ASPEN (SMPTE RDD37) and SMPTE <span style="white-space: nowrap;">2022-x</span> series of standards.”</p>
+		<p class="sig">— Eric Fankhauser, VP of Product Development</p>
+	</div>
+	<div class="full-feature">
+		<h3>LiveU</h3>
+		<p class="sigContent2">“IP workflow is the next revolution for the broadcasting industry and organizations need to be able to transition affordably and with partners that are here to stay. By incorporating the NDI-enabled LU2000 into their workflow, organizations can produce, integrate, and manage their video content more efficiently and cost-effectively. We wholeheartedly support ND as the IP standard.”</p>
+		<p class="sig">— Avi Cohen, LiveU Co-Founder</p>
+	</div>
+</div>
+<div class="full-features-container clearfix" style="background-color: #fff; padding-top: 10px;">
+	<div class="full-feature">
+		<h3>NewBlue</h3>
+		<p class="sigContent3">“NewTek's breakthrough NDI standard changes everything. It discards the rigid constraints that yesterday's hardware defined. For us, it's like oxygen — the possibilities just open up. We can do so much more and yet give customers uncluttered, direct workflows that are all the more powerful in their simplicity. Before NDI, delivering 16 channels of animated multi-layer production graphics was not possible in any reasonable form.”</p>
+		<p class="sig">— Todor Fay, CEO of NewBlue</p>
+	</div>
+	<div class="full-feature">
+		<h3>DELTACAST</h3>
+		<p class="sigContent3">“It is exciting to have over 60 video cards with different I/O options visible as sources in the large NDI ecosystem, creating new ways of thinking and working. NewTek NDI users will also gain access to SMPTE-2022-6 and in the future to other IP standards such as VSF TR-03 and ASPEN.”</p>
+		<p class="sig">— Christian Dutilleux, CEO of DELTACAST</p>
+	</div>
+</div>
+<div class="cta-bar padding-bleed">
+	<div class="container">
+		<h2>Getting Started With NDI</h2><a href="http://pages.newtek.com/NDI-Getting-Started.html" class="cta">Learn More</a>
+	</div>
+</div>
+<script type="text/javascript">
+	$(window).load(function() {
+		var buckets = document.querySelectorAll('.bucket');
+		var sigContent1 = document.querySelectorAll('.sigContent1');
+		var sigContent2 = document.querySelectorAll('.sigContent2');
+		var sigContent3 = document.querySelectorAll('.sigContent3');
+		var subheading3 = document.querySelectorAll('.subheading3');
+		var bucketContent = document.querySelectorAll('.bucket .content-container');
+		for (var i = 0; i < buckets.length; i += 3) {
+			var bucketRow = [
+			buckets[i], buckets[i + 1], buckets[i + 2]];
+			var bucketRowContent = [
+			bucketContent[i], bucketContent[i + 1], bucketContent[i + 2]];
+			NEWTEKV2.equal_heights(bucketRow);
+			NEWTEKV2.equal_heights(bucketRowContent);
+		}
+		for (var i = 0; i < sigContent1.length; i += 3) {
+			var subheading3 = [
+			subheading3[i], subheading3[i + 1], subheading3[i + 2]];
+			NEWTEKV2.equal_heights(subheading3);
+		}
+		for (var i = 0; i < sigContent1.length; i += 3) {
+			var sigContent1 = [
+			sigContent1[i], sigContent1[i + 1], sigContent1[i + 2]];
+			NEWTEKV2.equal_heights(sigContent1);
+		}
+		for (var i = 0; i < sigContent2.length; i += 3) {
+			var sigContent2 = [
+			sigContent2[i], sigContent2[i + 1], sigContent2[i + 2]];
+			NEWTEKV2.equal_heights(sigContent2);
+		}
+		for (var i = 0; i < sigContent3.length; i += 3) {
+			var sigContent3 = [
+			sigContent3[i], sigContent3[i + 1], sigContent3[i + 2]];
+			NEWTEKV2.equal_heights(sigContent3);
+		}
+	});
+</script>
+<!--<div class="sdk-content-container clearfix">
+	<div class="left">
+		<h2>Develop the production apps you need most.</h2>
+		<p>Build an IP video production network specific to your shows, your needs, and your equipment. Download the NewTek NDI SDK to enhance your production equipment and accelerate your workflow into the IP future.</p>
+		<p><a href="javascript:;" class="cta-blue">Download</a></p>
+		<div class="gray-bg">
+			<h3>Developers who have already enabled NDI include:</h3>
+			<p>AJA, Brainstorm, CasparCG, CharacterWorks, ChyronHego, ClassX, Compix, EasyWorship, Gnural Net, Graphics Outfitters, LiveXpert, Media 5, PlayBox Technology, Teradek, Vizrt, Wasp3D, and many more.</p>
+		</div>
+	</div><img alt=" " title="" src="/images/icon-xlarge-sdk.jpg" />
+</div>-->
+<div class="stories-container">{loadposition stories}</div>
+<!--<div class="form-container padding-bleed">{loadposition form}</div>-->

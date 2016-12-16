@@ -39,9 +39,4 @@ for file in files:
                 print "    No permalink already present, set to: %s" % sitemap[title]
         else:
             print "    No permalink already present, nor in sitemap. Leaving as default."
-
-
-
-
-
 print "END :)"
