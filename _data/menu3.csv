@@ -1,0 +1,32 @@
+﻿id,menutype,title,alias,path,link
+1,,Menu_Item_Root,root,,
+2,menu,com_banners,Banners,Banners,index.php?option=com_banners
+3,menu,com_banners,Banners,Banners/Banners,index.php?option=com_banners
+4,menu,com_banners_categories,Categories,Banners/Categories,index.php?option=com_categories&extension=com_banners
+5,menu,com_banners_clients,Clients,Banners/Clients,index.php?option=com_banners&view=clients
+6,menu,com_banners_tracks,Tracks,Banners/Tracks,index.php?option=com_banners&view=tracks
+7,menu,com_contact,Contacts,Contacts,index.php?option=com_contact
+8,menu,com_contact,Contacts,Contacts/Contacts,index.php?option=com_contact
+9,menu,com_contact_categories,Categories,Contacts/Categories,index.php?option=com_categories&extension=com_contact
+10,menu,com_messages,Messaging,Messaging,index.php?option=com_messages
+11,menu,com_messages_add,New Private Message,Messaging/New Private Message,index.php?option=com_messages&task=message.add
+13,menu,com_newsfeeds,News Feeds,News Feeds,index.php?option=com_newsfeeds
+14,menu,com_newsfeeds_feeds,Feeds,News Feeds/Feeds,index.php?option=com_newsfeeds
+15,menu,com_newsfeeds_categories,Categories,News Feeds/Categories,index.php?option=com_categories&extension=com_newsfeeds
+16,menu,com_redirect,Redirect,Redirect,index.php?option=com_redirect
+17,menu,com_search,Basic Search,Basic Search,index.php?option=com_search
+21,menu,com_finder,Smart Search,Smart Search,index.php?option=com_finder
+22,menu,com_joomlaupdate,Joomla! Update,Joomla! Update,index.php?option=com_joomlaupdate
+101,mainmenu,Home,home,home,index.php?option=com_content&view=category&layout=blog&id=9
+102,bottommenu,Author Login,login,login,index.php?option=com_users&view=login
+103,authormenu,Change Password,change-password,change-password,index.php?option=com_users&view=profile&layout=edit
+104,authormenu,Create a Post,create-a-post,create-a-post,index.php?option=com_content&view=form&layout=edit
+106,authormenu,Site Administrator,2012-01-04-15-46-42,2012-01-04-15-46-42,administrator
+107,authormenu,Log out,log-out,log-out,index.php?option=com_users&view=login
+108,mainmenu,About,about,about,index.php?option=com_content&view=article&id=1
+109,authormenu,Working on Your Site,working-on-your-site,working-on-your-site,index.php?option=com_content&view=article&id=2
+111,menu,com_tags,com-tags,com-tags,index.php?option=com_tags
+112,main,com_postinstall,Post-installation messages,Post-installation messages,index.php?option=com_postinstall
+113,authormenu,Site Settings,site-settings,working-on-your-site/site-settings,index.php?option=com_config&view=config&controller=config.display.config
+114,authormenu,Template Settings,template-settings,working-on-your-site/template-settings,index.php?option=com_config&view=templates&controller=config.display.templates
+115,mainmenu,Author Login,author-login,author-login,index.php?option=com_users&view=login
