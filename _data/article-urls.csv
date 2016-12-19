@@ -1,0 +1,350 @@
+article_id,menu_id,title,alias,path
+1,1247,Home,home,home
+45,650,3Play 330,3play-330-home,3play-330-home
+47,651,Features,3play-330-features,3play-330-home/3play-330-features
+48,653,Tech Specs,3play330-tech-specs,3play-330-home/3play330-tech-specs
+51,683,Slow Motion Instant Replay,slow-motion-instant-replay,solutions/slow-motion-instant-replay
+65,61,Management,management,company/management
+68,64,Careers,careers,company/careers
+77,667,Live Production & Streaming,live-production-a-streaming,solutions/live-production-a-streaming
+77,963,Solutions (Test),solutions-test,solutions-test
+85,697,Television,lw-television,solutions/3d-animation/lw-television
+86,699,Feature Film,lw-feature-film,solutions/3d-animation/lw-feature-film
+87,705,Print Graphics,lw-print-graphics,solutions/3d-animation/lw-print-graphics
+88,707,Games & Software,lw-games-a-software,solutions/3d-animation/lw-games-a-software
+90,703,Arch / Vis,lw-arch-vis,solutions/3d-animation/lw-arch-vis
+97,60,About Us,about-us,company/about-us
+99,668,Broadcast / Webcast,tc-broadcast-webcast,solutions/live-production-a-streaming/tc-broadcast-webcast
+100,672,Education,tc-sports-education,solutions/live-production-a-streaming/tc-sports-education
+101,676,Government,tc-government,solutions/live-production-a-streaming/tc-government
+102,679,Worship / Venues,tc-worship-venues,solutions/live-production-a-streaming/tc-worship-venues
+106,684,Broadcast,3play-broadcast-smenu,solutions/slow-motion-instant-replay/3play-broadcast-smenu
+107,688,Education,3play-sportseducation-smenu,solutions/slow-motion-instant-replay/3play-sportseducation-smenu
+108,692,Venues,3play-venues-smenu,solutions/slow-motion-instant-replay/3play-venues-smenu
+114,685,Case Studies,3play-broadcast-case-studies-smenu,solutions/slow-motion-instant-replay/3play-broadcast-smenu/3play-broadcast-case-studies-smenu
+115,686,References,3play-broadcast-reference-smenu,solutions/slow-motion-instant-replay/3play-broadcast-smenu/3play-broadcast-reference-smenu
+116,687,Workflow,3play-broadcast-workflow-smenu,solutions/slow-motion-instant-replay/3play-broadcast-smenu/3play-broadcast-workflow-smenu
+118,689,Case Studies,3play-sportsedu-case-studies,solutions/slow-motion-instant-replay/3play-sportseducation-smenu/3play-sportsedu-case-studies
+119,690,References,3play-sportsedu-reference-smenu,solutions/slow-motion-instant-replay/3play-sportseducation-smenu/3play-sportsedu-reference-smenu
+120,691,Workflow,3play-sportsedu-workflow-smenu,solutions/slow-motion-instant-replay/3play-sportseducation-smenu/3play-sportsedu-workflow-smenu
+122,693,Case Studies,3play-venues-case-studies-smenu,solutions/slow-motion-instant-replay/3play-venues-smenu/3play-venues-case-studies-smenu
+123,694,References,3play-venues-reference,solutions/slow-motion-instant-replay/3play-venues-smenu/3play-venues-reference
+124,695,Workflow,3play-venues-workflow-smenu,solutions/slow-motion-instant-replay/3play-venues-smenu/3play-venues-workflow-smenu
+134,652,Interface,3play330-interface,3play-330-home/3play330-interface
+142,671,Workflow,workflow,solutions/live-production-a-streaming/tc-broadcast-webcast/workflow
+143,675,Workflow,workflow,solutions/live-production-a-streaming/tc-sports-education/workflow
+144,678,Workflow,workflow,solutions/live-production-a-streaming/tc-government/workflow
+145,682,Workflow,workflow,solutions/live-production-a-streaming/tc-worship-venues/workflow
+147,704,Case Studies,case-studies,solutions/3d-animation/lw-arch-vis/case-studies
+151,708,Case Studies,case-studies,solutions/3d-animation/lw-games-a-software/case-studies
+155,706,Case Studies,case-studies,solutions/3d-animation/lw-print-graphics/case-studies
+159,700,Case Studies,case-studies,solutions/3d-animation/lw-feature-film/case-studies
+163,698,Case Studies,case-studies,solutions/3d-animation/lw-television/case-studies
+176,654,System Diagram,3play330-system-diagram,3play-330-home/3play330-system-diagram
+180,701,Design,design,solutions/3d-animation/design
+185,674,References,references,solutions/live-production-a-streaming/tc-sports-education/references
+186,670,References,references,solutions/live-production-a-streaming/tc-broadcast-webcast/references
+187,681,References,references,solutions/live-production-a-streaming/tc-worship-venues/references
+188,677,References,references,solutions/live-production-a-streaming/tc-government/references
+189,669,Case Studies,case-studies,solutions/live-production-a-streaming/tc-broadcast-webcast/case-studies
+189,813,Miss Universe Organization taps potential of live streaming to build excitement for its pageants,miss-universe-organization-taps-potential-of-live-streaming-to-build-excitement-for-its-pageants,solutions/customer-stories/miss-universe-organization-taps-potential-of-live-streaming-to-build-excitement-for-its-pageants
+190,680,Case Studies,case-studies,solutions/live-production-a-streaming/tc-worship-venues/case-studies
+190,812,Northview Assembly of God Extends Outreach with Live Streaming,northview-assembly-of-god-extends-outreach-with-live-streaming,solutions/customer-stories/northview-assembly-of-god-extends-outreach-with-live-streaming
+191,673,Case Studies,case-studies,solutions/live-production-a-streaming/tc-sports-education/case-studies
+191,811,Valley Local High School Expands Live Sports Coverage with NewTek TriCaster,valley-local-high-school-expands-live-sports-coverage-with-newtek-tricaster,solutions/customer-stories/valley-local-high-school-expands-live-sports-coverage-with-newtek-tricaster
+260,751,Warranties & Returns,warranties-a-returns,support/warranties-a-returns
+289,702,Case Studies,case-studies,solutions/3d-animation/design/case-studies
+312,742,TriCaster FAQ,tricaster-faq,support/certified/support-certif-get-certified-exam/tricaster-faq
+341,309,Privacy Policy,privacy-policy,privacy-policy
+386,623,TriCaster 460 CS,tricaster-tc460cs,products/control-surfaces/tricaster-tc460cs
+387,626,TriCaster 850 TW,tricaster-tc-850-tw,products/control-surfaces/tricaster-tc-850-tw
+389,631,LiveText,tricaster-livetext,products/software/tricaster-livetext
+390,622,TriCaster 860 CS,tricaster-tc860cs,products/control-surfaces/tricaster-tc860cs
+392,924,Virtual Set Editor (VSE2),virtual-set-editor-vse2,news-events/newsroom/media/virtual-set-editor-vse2
+409,745,Certified Operator Exam Acronyms,certified-operator-exam-acronyms,support/certified/learning-resources/certified-operator-exam-acronyms
+410,747,Certified Operator Directory,support-certif-get-certified-op-directory,support/certified/support-certif-get-certified-op-directory
+412,746,Testing Centers,test-center-locator,support/certified/test-center-locator
+422,744,Practice Exam,practice-exam,support/certified/learning-resources/practice-exam
+427,726,ProTek Enhanced Support,protek,support/protek
+428,727,Advantages,protek-advantages,support/protek/protek-advantages
+429,728,At-a-Glance,protek-at-a-glance,support/protek/protek-at-a-glance
+430,729,How to Qualify,protek-eligibility,support/protek/protek-eligibility
+431,732,FAQ,protek-faq,support/protek/protek-faq
+433,730,Pricing,pricing,support/protek/pricing
+442,657,Request More Info,request-more-info-3play330,3play-330-home/request-more-info-3play330
+442,731,Request More Info,request-more-info-protek,support/protek/request-more-info-protek
+442,756,Request More Info,request-more-info,where-to-buy/request-more-info
+508,818,Broadcast Minds: NAB 2012 - The Future of TV,broadcast-minds-nab-2012-the-future-of-tv,news-events/broadcastminds/broadcast-minds-nab-2012-the-future-of-tv
+550,621,TriCaster 8000 CS,tricaster-tc8000cs,products/control-surfaces/tricaster-tc8000cs
+554,810,Ultra-Sound Medicine,ultra-sound-medicine,solutions/customer-stories/ultra-sound-medicine
+555,809,Don Sperling Sounds Off,don-sperling-sounds-off,solutions/customer-stories/don-sperling-sounds-off
+560,808,The Dream Rolls On,the-dream-rolls-on,solutions/customer-stories/the-dream-rolls-on
+562,814,Basking in the Miami HEAT,basking-in-the-miami-heat,solutions/customer-stories/miami-heat/basking-in-the-miami-heat
+566,805,A Rule to Live By,a-rule-to-live-by,solutions/customer-stories/a-rule-to-live-by
+567,1092,Trademarks,trademarks,trademarks
+579,446,VAR Thanks,var-thankyou,var-thankyou
+587,624,TriCaster Mini 40 CS,tricaster40-controlsurface,products/control-surfaces/tricaster40-controlsurface
+595,460,Robert Scoble,robert-scoble,robert-scoble
+603,477,Look Who\s Using TriCaster: Miami Heat',miami-heat,solutions/customer-stories/miami-heat
+613,1318,Gallery,gallery,software/virtual-set-editor/gallery
+614,1317,System Requirements,system-requirements,software/virtual-set-editor/system-requirements
+645,478,MTV User Profile,mtv-user-profile,solutions/customer-stories/mtv-user-profile
+646,807,MTV uses TriCaster to stream OMA,mtv-uses-tricaster-to-stream-oma,solutions/customer-stories/mtv-user-profile/mtv-uses-tricaster-to-stream-oma
+648,480,Tricaster 40 Introduction,tricaster-40-introduction,tricaster-40-introduction
+649,481,Tricaster 40 Introduction Features,tricaster-40-introduction-features,tricaster-40-introduction-features
+650,482,Tricaster 40 Profiles,tricaster-40-profiles,tricaster-40-profiles
+652,734,Certification,certified,support/certified
+652,735,Certification,support-certif-get-certified,support/certified/support-certif-get-certified
+653,737,Exam Details,exam-details,support/certified/exam-details
+654,743,Training,learning-resources,support/certified/learning-resources
+664,754,Find a Dealer,reseller-locator,where-to-buy/reseller-locator
+669,806,Look Who\s Using TriCaster: WAAY-TV',look-who-s-using-tricaster-waay-tv,solutions/customer-stories/look-who-s-using-tricaster-waay-tv
+670,792,A Revolutionary WAAY to Produce Live News,a-revolutionary-waay-to-produce-live-news,solutions/customer-stories/look-who-s-using-tricaster-waay-tv/a-revolutionary-waay-to-produce-live-news
+682,954,What\s Trending: The Future of Online Television',what-s-trending-the-future-of-online-television,news-events/broadcastminds/what-s-trending-the-future-of-online-television
+687,819,St. John’s University,st-johns-university,solutions/customer-stories/st-johns-university
+688,820,Extreme Exposure: St. John\s University',extreme-exposure-st-john-s-university,solutions/customer-stories/st-johns-university/extreme-exposure-st-john-s-university
+690,953,NAB 2013 Alt,nab-2013-alt,nab-2013-alt
+691,822,Broadcast Minds - BVE 2013,broadcast-minds-bve-2013,news-events/broadcastminds/broadcast-minds-bve-2013
+720,843,Newsroom,newsroom,news-events/newsroom
+721,845,Press Contacts,press-contacts,news-events/newsroom/press-contacts
+730,870,Media Resources,media,news-events/newsroom/media
+731,891,TriCaster 40 Media Resources,tc40-media-resources,news-events/newsroom/media/tc40-media-resources
+732,893,TriCaster 460 Media Resources,tc460-media-resources,news-events/newsroom/media/tc460-media-resources
+733,894,TriCaster 8000 Media Resources,tc8000-media-resources,news-events/newsroom/media/tc8000-media-resources
+734,892,TriCaster 860 Media Resources,tc860-media-resources,news-events/newsroom/media/tc860-media-resources
+735,895,3Play 425 Media Resources,3p425-media-resources,news-events/newsroom/media/3p425-media-resources
+736,896,3Play 4800 Media Resources,3p4800-media-resources,news-events/newsroom/media/3p4800-media-resources
+739,912,TriCaster 8000 CS Media Resources,tricaster-8000-cs-media-resources,news-events/newsroom/media/tricaster-8000-cs-media-resources
+742,918,Tricaster 40 CS Media Resources,tricaster-40-cs-media-resources,news-events/newsroom/media/tricaster-40-cs-media-resources
+743,914,TriCaster 860 CS Media Resources,tricaster-860-cs-media-resources,news-events/newsroom/media/tricaster-860-cs-media-resources
+744,916,Tricaster 455 CS Media Resources,tricaster-455-cs-media-resources,news-events/newsroom/media/tricaster-455-cs-media-resources
+745,920,TriCaster LC-11 Media Resources,tricaster-lc-11-media-resources,news-events/newsroom/media/tricaster-lc-11-media-resources
+746,922,TriCaster 850 TW Media Resources,tricaster-850-tw-media-resources,news-events/newsroom/media/tricaster-850-tw-media-resources
+747,927,LiveSet Pack Volume 1,liveset-pack-volume-1,news-events/newsroom/media/liveset-pack-volume-1
+748,925,LiveText,livetext-trade,news-events/newsroom/media/livetext-trade
+750,929,NewTek Management,newtek-management,news-events/newsroom/media/newtek-management
+754,936,Developer Profile,partner-profile,solutions/newtek-developer-network/partner-profile
+755,931,All Partner List (A-Z),all-partner-list,solutions/newtek-developer-network/all-partner-list
+756,933,Developer Solutions Category,developer-solutions-category,solutions/newtek-developer-network/developer-solutions-category
+757,934,Join the NewTek Developer Network,join-the-newtek-developer-network,solutions/newtek-developer-network/join-the-newtek-developer-network
+758,930,Developer Network,newtek-developer-network,solutions/newtek-developer-network
+759,932,SDK Programs,sdk-programs,solutions/newtek-developer-network/sdk-programs
+760,935,Suggest a Developer or Workflow,suggest-a-developer-or-workflow,solutions/newtek-developer-network/suggest-a-developer-or-workflow
+762,942,Category,category,site-admin/category
+763,943,Delete Category,delete-category,site-admin/delete-category
+764,940,Delete a Partner,delete-a-partner,site-admin/delete-a-partner
+765,946,Delete Product,delete-product,site-admin/delete-product
+766,941,Manage Categories,manage-categories,site-admin/manage-categories
+767,938,Manage All Partners,manage-all-partners,site-admin/manage-all-partners
+768,944,Manage Products,manage-products,site-admin/manage-products
+769,939,Add a New Partner,add-a-new-partner,site-admin/add-a-new-partner
+770,945,Product,product,site-admin/product
+771,937,Site Admin,site-admin,site-admin
+773,630,Virtual Set Editor,virtual-set-editor,products/software/virtual-set-editor
+774,1017,Post NAB 2013,post-nab-2013,post-nab-2013
+775,1234,Broadcast Minds: NAB 2013 - Internet Content,broadcast-minds-nab-2013-internet-content,news-events/broadcastminds/broadcast-minds-nab-2013-internet-content
+777,613,TriCaster 40,tricaster-40,products/tricaster-40
+778,614,Features,tricaster-40-features,products/tricaster-40/tricaster-40-features
+780,615,Interface,tricaster-40-interface,products/tricaster-40/tricaster-40-interface
+781,617,System Diagram,tricaster-40-systemdiagram,products/tricaster-40/tricaster-40-systemdiagram
+783,475,Test,test-2,test-2
+783,799,Banner Test,banner-test,banner-test
+783,1181,home test,home-test,home-test
+784,995,DownloadsWIP,downwip,downwip
+785,989,TriCaster 40 Support,tricaster-40-support,support-test/tricaster-40-support
+786,991,TriCaster 40 Training Videos,tricaster40training,support-test/tricaster-40-support/tricaster40training
+787,993,Sports Solutions,sports,solutions/sports
+790,996,Fan Experience,fan-experience,solutions/sports/fan-experience
+791,997,Program Exposure,program-exposure,solutions/sports/program-exposure
+792,998,Brand Extension,brand-extension,solutions/sports/brand-extension
+798,1000,Look Who\s Using NewTek Solutions: TD Garden',look-who-s-using-newtek-solutions-td-garden,solutions/customer-stories/look-who-s-using-newtek-solutions-td-garden
+799,1001,TD Garden Pumps Up Game Experience for Fans,td-garden-pumps-up-game-experience-for-fans,solutions/customer-stories/look-who-s-using-newtek-solutions-td-garden/td-garden-pumps-up-game-experience-for-fans
+801,1352,Previous Product Updates and Downloads,previous,downloads/previous
+805,1005,Customer Support Request,customer-support-request,customer-support-request
+808,1007,Customer Support Request Confirmation,customer-support-request-confirmation,customer-support-request-confirmation
+809,1008,Derby County Football Club,derby-county-football-club,solutions/customer-stories/derby-county-football-club
+810,1009,Playing to Win,playing-to-win,solutions/customer-stories/derby-county-football-club/playing-to-win
+815,1015,Connect with NewTek Sports Solutions Expert,connect-with-newtek-sports-solutions-expert,connect-with-newtek-sports-solutions-expert
+816,1016,Thank you for contacting NewTek Sports Solutions Expert,thank-you-for-contacting-newtek-sports-solutions-expert,thank-you-for-contacting-newtek-sports-solutions-expert
+817,1014,NewTek Sports Solutions Library,newtek-sports-solutions-library,newtek-sports-solutions-library
+819,1020,Audience Engagement,audience-engagement,solutions/sports/audience-engagement
+821,1029,Look Who\s Using NewTek Solutions: Sporting KC',look-who-s-using-newtek-solutions-sporting-kc,solutions/customer-stories/look-who-s-using-newtek-solutions-sporting-kc
+829,1030,Look Who\s Using NewTek Solutions: Mobile Studios',look-who-s-using-newtek-solutions-mobile-studios,solutions/customer-stories/look-who-s-using-newtek-solutions-mobile-studios
+830,1031,Mobile Studios Streams Wallenda Walk,mobile-studios-streams-wallenda-walk,solutions/customer-stories/look-who-s-using-newtek-solutions-mobile-studios/mobile-studios-streams-wallenda-walk
+831,1049,Introducing the New TriCaster Pro Line,the-tricaster-pro-line,the-tricaster-pro-line
+832,1048,TriCaster Pro Line Features In-Depth,tricaster-pro-line-features-in-depth,tricaster-pro-line-features-in-depth
+832,1279,In-Depth,in-depth,tricaster/in-depth
+832,1280,In-Depth,in-depth,tricaster/8000/in-depth
+832,1286,In-Depth,in-depth,tricaster/400-series/in-depth
+929,1289,410,410,tricaster/400-series/interface/410
+930,1292,410,410,tricaster/400-series/system-diagram/410
+934,1288,460,460,tricaster/400-series/interface/460
+936,1291,460,460,tricaster/400-series/system-diagram/460
+939,1040,TriCaster 860,tricaster-860,products/tricaster-860
+940,1043,Interface,interface,products/tricaster-860/interface
+941,1045,System Diagram,system-diagram,products/tricaster-860/system-diagram
+943,1041,Top Features,top-features,products/tricaster-860/top-features
+944,1150,New in TriCaster 860,new-in-tricaster-860,products/tricaster-860/new-in-tricaster-860
+976,1281,Interface,interface,tricaster/8000/interface
+977,1282,System Diagram,system-diagram,tricaster/8000/system-diagram
+981,1046,Compare,compare,products/tricaster-860/compare
+981,1177,Compare,compare,products/tricaster-mini/compare
+981,1284,Compare,compare,tricaster/8000/compare
+981,1285,Compare,compare,tricaster/compare
+981,1296,Compare,compare,tricaster/400-series/compare
+985,1071,TriCaster 410 Media Resources,tc410-media-resources,news-events/newsroom/media/tc410-media-resources
+986,1079,On-Site Training,on-site-training,support/on-site-training
+988,1080,TriCaster 855 Curriculum,tricaster-855-training-curriculum,tricaster-855-training-curriculum
+989,1083,3Play 4800 Curriculum,3play-4800-curriculum,3play-4800-curriculum
+993,1086,Show the World You’re a NewTek Reseller,show-the-world-youu-are-a-newtek-reseller,show-the-world-youu-are-a-newtek-reseller
+994,1087,Thank you!,thank-you,thank-you
+995,1089,Taking a new direction - TheStreet,taking-a-new-direction-thestreet,solutions/customer-stories/look-who’s-using-newtek-solutions-thestreet/taking-a-new-direction-thestreet
+996,1088,Look Who’s Using NewTek Solutions: TheStreet,look-who’s-using-newtek-solutions-thestreet,solutions/customer-stories/look-who’s-using-newtek-solutions-thestreet
+998,256,NewTek All-American Video Crew,aag,aag
+1003,1090,"""Off the Wall"" with Vans",off-the-wall-with-vans,solutions/customer-stories/off-the-wall-with-vans
+1004,1091,"Vans uses TriCaster and 3Play to catch ""Off the Wall"" action",vans-uses-tricaster-and-3play-to-catch-off-the-wall-action,solutions/customer-stories/off-the-wall-with-vans/vans-uses-tricaster-and-3play-to-catch-off-the-wall-action
+1009,1094,Live Sports with YouTube,live-sports-with-youtube,solutions/customer-stories/live-sports-with-youtube
+1010,1093,Live Sports with YouTube - story,live-sports-with-youtube-story,solutions/customer-stories/live-sports-with-youtube/live-sports-with-youtube-story
+1019,1110,Introducing a new league of professional live sports production systems,introducing-a-new-league-of-professional-live-sports-production-systems,introducing-a-new-league-of-professional-live-sports-production-systems
+1095,1325,Interface,interface,3play/4800/interface
+1097,1326,System Diagram,system-diagram,3play/4800/system-diagram
+1098,1207,Compare,compare,products/3play-mini/compare
+1098,1328,Compare,compare,3play/4800/compare
+1098,1333,Compare,compare,3play/440/compare
+1098,1338,Compare,compare,3play/425/compare
+1098,1340,Compare,compare,3play/compare
+1108,1330,Interface,interface,3play/440/interface
+1109,1331,System Diagram,system-diagram,3play/440/system-diagram
+1113,1335,Interface,interface,3play/425/interface
+1114,1336,System Diagram,system-diagram,3play/425/system-diagram
+1119,1144,3Play 440 Media Resources,3play-440-media-resources,news-events/newsroom/media/3play-440-media-resources
+1123,1146,Broadcast Minds: Content creators talk streaming disruption,broadcast-minds-content-creators-talk-streaming-disruption,news-events/broadcastminds/broadcast-minds-content-creators-talk-streaming-disruption
+1172,1154,Look Who\s Using NewTek Solutions: Paradise Jam',look-who-s-using-newtek-solutions-paradise-jam,solutions/customer-stories/look-who-s-using-newtek-solutions-paradise-jam
+1173,1155,NewTek Solutions Help Score More Fans for Paradise Jam,newtek-solutions-help-score-more-fans-for-paradise-jam,solutions/customer-stories/look-who-s-using-newtek-solutions-paradise-jam/newtek-solutions-help-score-more-fans-for-paradise-jam
+1177,1156,TriCaster Virtual Set Gallery,tricaster-virtual-set-gallery,tricaster-virtual-set-gallery
+1177,1158,Virtual Set Gallery,virtual-set-gallery,products/tricaster-860/virtual-set-gallery
+1177,1178,Virtual Set Gallery,virtual-set-gallery,products/tricaster-mini/virtual-set-gallery
+1177,1304,Virtual Set Gallery,virtual-set-gallery,tricaster/virtual-set-gallery
+1207,1161,Look Who\s Using NewTek Solutions: Nike',look-who-s-using-newtek-solutions-nike,solutions/customer-stories/look-who-s-using-newtek-solutions-nike
+1208,1162,Nike’s #RiskEverything tournament powered by NewTek TriCaster and 3Play,nike’s-riskeverything-tournament-powered-by-newtek-tricaster-and-3play,solutions/customer-stories/look-who-s-using-newtek-solutions-nike/nike’s-riskeverything-tournament-powered-by-newtek-tricaster-and-3play
+1222,1170,Apply to Become a Reseller,apply-to-become-a-reseller,apply-to-become-a-reseller
+1225,1173,Interface,interface,products/tricaster-mini/interface
+1226,1175,System Diagram,system-diagram,products/tricaster-mini/system-diagram
+1227,1176,TriCaster Mini In-Depth,tricaster-mini-in-depth,products/tricaster-mini/tricaster-mini-in-depth
+1229,1171,TriCaster Mini,tricaster-mini,products/tricaster-mini
+1230,1182,New to Multi-Camera Production & Streaming?,new-to-multi-camera-production,new-to-multi-camera-production
+1231,1183,Go make your show,go-make-your-show,go-make-your-show
+1233,1184,TriCaster Mini - Media Resources,tricaster-mini-media-resources,news-events/newsroom/media/tricaster-mini-media-resources
+1234,1188,TalkShow Media Resources,talkshow-media-resources,news-events/newsroom/media/talkshow-media-resources
+1235,1191,TriCaster Mini CS,tricaster-mini-cs,products/control-surfaces/tricaster-mini-cs
+1247,1198,Look Who\s Using NewTek Solutions: EMC2',look-who-s-using-newtek-solutions-emc2,solutions/customer-stories/look-who-s-using-newtek-solutions-emc2
+1248,1199,Shared Storage Opens Doors For TriCaster and 3Play Customers,shared-storage-opens-doors-for-tricaster-and-3play-customers,solutions/newtek-developer-network/shared-storage-opens-doors-for-tricaster-and-3play-customers
+1260,1202,3Play Mini,3play-mini,products/3play-mini
+1261,1204,Interface,interface,products/3play-mini/interface
+1262,1206,System Diagram,system-diagram,products/3play-mini/system-diagram
+1264,1208,In Depth,in-depth,products/3play-mini/in-depth
+1264,1324,In-Depth,in-depth,3play/4800/in-depth
+1264,1329,In-Depth,in-depth,3play/440/in-depth
+1264,1334,In-Depth,in-depth,3play/425/in-depth
+1264,1339,In-Depth,in-depth,3play/in-depth
+1265,1214,In Depth,in-depth,products/tricaster-advanced-edition/in-depth
+1266,1215,Interface,interface,products/tricaster-advanced-edition/interface
+1267,1222,NewTek Logos Media Resources,logos-media-resources,news-events/newsroom/media/logos-media-resources
+1268,1223,3Play Mini Media Resources,3play-mini-media-resources,news-events/newsroom/media/3play-mini-media-resources
+1270,1224,TriCaster Advanced Edition Media Resources,tricaster-advanced-edition-media-resources,news-events/newsroom/media/tricaster-advanced-edition-media-resources
+1271,1225,TriCaster Mini CS Media Resources,tricaster-mini-cs-media-resources,news-events/newsroom/media/tricaster-mini-cs-media-resources
+1272,1387,Broadcast Minds: NAB 2015 - The Future of Broadcast,broadcastminds-the-future-of-broadcast,news-events/broadcastminds/broadcastminds-the-future-of-broadcast
+1283,1249,Services and Support,services-support,support/services-support
+1284,1250,Tiered Support,tiered-support,support/services-support/tiered-support
+1285,1251,Professional Services,professional-services,support/services-support/professional-services
+1287,1252,Holiday ECard 2016,holidays-2016,holidays-2016
+1288,1277,TriCaster 8000,8000,tricaster/8000
+1289,1278,TriCaster 400 Series,400-series,tricaster/400-series
+1291,1276,TriCaster,tricaster,tricaster
+1292,1300,3Play,3play,3play
+1293,1301,3Play 4800,4800,3play/4800
+1294,1302,3Play 440,440,3play/440
+1295,1303,3Play 425,425,3play/425
+1297,1313,LiveText,livetext,software/livetext
+1298,1312,Software,software,software
+1300,1314,Virtual Set Editor,virtual-set-editor,software/virtual-set-editor
+1307,1315,Content Packs,content-packs,software/content-packs
+1308,1316,Holidays 2016 Email,email,holidays-2016/email
+1312,1341,NewTek Connect Pro,ndi-connect,software/ndi-connect
+1313,1342,NewTek IsoCorder,ndi-isocorder,software/ndi-isocorder
+1323,1353,NDI Media Resources,ndi-media-resources,news-events/newsroom/media/ndi-media-resources
+1324,1355,TalkShow,talkshow,talkshow
+1326,1356,TalkShow VS100,vs100,talkshow/vs100
+1327,1357,TalkShow® VS 4000,vs4000,talkshow/vs4000
+1328,1359,NewTek NDI for Adobe Creative Cloud,adobe-creative-cloud,software/adobe-creative-cloud
+1331,1364,NewTek NDI™ for Adobe® Creative Cloud® Media Resources,adobecc-media-resources,news-events/newsroom/media/adobecc-media-resources
+1332,1366,NewTek IsoCorder Pro Media Resources,isocorder-pro-media-resources,news-events/newsroom/media/isocorder-pro-media-resources
+1333,1363,NewTek Connect Pro Media Resources,connect-pro-media-resources,news-events/newsroom/media/connect-pro-media-resources
+1334,1362,TalkShow™ VS 4000 Media Resources,talkshow-vs-4000-media-resources,news-events/newsroom/media/talkshow-vs-4000-media-resources
+1335,1361,TalkShow® VS 100 Media Resources,talkshow-vs-100-media-resources,news-events/newsroom/media/talkshow-vs-100-media-resources
+1336,1365,NDI™ Transmit Media Resources,transmit-media-resources,news-events/newsroom/media/transmit-media-resources
+1337,1367,NDI Telestrator Media Resources,telestrator-media-resources,news-events/newsroom/media/telestrator-media-resources
+1340,1369,In-Depth,features-in-depth,talkshow/vs100/features-in-depth
+1340,1373,In-Depth,features-in-depth,talkshow/vs4000/features-in-depth
+1341,1370,Tech Specs,tech-specs,talkshow/vs100/tech-specs
+1342,1371,System Diagram,system-diagram,talkshow/vs100/system-diagram
+1346,1372,TalkShow Compare,compare,talkshow/vs100/compare
+1346,1376,TalkShow Compare,compare,talkshow/vs4000/compare
+1347,1375,System Diagram,system-diagram,talkshow/vs4000/system-diagram
+1348,1374,Tech Specs,tech-specs,talkshow/vs4000/tech-specs
+1353,1377,3Play™ 4800 and 440 CS Media Resources,3p4800-440-cs-media-resources,news-events/newsroom/media/3p4800-440-cs-media-resources
+1354,1378,3Play™ 425 CS Media Resources,3p425-cs-media-resources,news-events/newsroom/media/3p425-cs-media-resources
+1355,1386,NewTek NDI™ Transmit,transmit,software/transmit
+1356,721,Broadcast Minds,broadcastminds,news-events/broadcastminds
+1358,1360,NDI™ Telestrator,telestrator,software/telestrator
+1359,1310,NDI,ndi,ndi
+1362,1393,NDI Applications,applications,ndi/applications
+1364,1396,TriCaster Advanced Edition,advanced-edition,tricaster/advanced-edition
+1367,749,Updates and Downloads,downloads,downloads
+1370,1235,Corporate Video,enterprise,solutions/enterprise
+1371,1401,Sports Productions,sports-video,solutions/sports-video
+1372,1402,Corporate Video  Resources,corporate-video-resources,solutions/corporate-video-resources
+1376,1403,IP Series,ip-series,ip-series
+1377,1405,3Play Multi-Camera Editing,multi-cam-editing,3play/multi-cam-editing
+1378,1404,Sports Video Resources,sports-resources,solutions/sports-resources
+1380,1406,IP Series - Studio OUT,studio-out,ip-series/studio-out
+1381,1407,IP Series - Studio IN,studio-in,ip-series/studio-in
+1382,1408,IP Series - Video Mix Engine,video-mix-engine,ip-series/video-mix-engine
+1384,1410,IP Series - Control Panel,control-panel,ip-series/control-panel
+1385,1411,IP Series - Video Mix Engine Tech Specs,tech-specs,ip-series/video-mix-engine/tech-specs
+1387,1413,IP Series - Control Panel Tech Specs,tech-specs,ip-series/control-panel/tech-specs
+1388,1414,IP Series - Studio OUT Tech Specs,tech-specs,ip-series/studio-out/tech-specs
+1389,1415,IP Series - Studio IN Tech Specs,tech-specs,ip-series/studio-in/tech-specs
+1390,1412,IP Series - Video Mix Engine In Depth,in-depth,ip-series/video-mix-engine/in-depth
+1391,1246,Advanced IP Workflow,advanced-ip-workflow,solutions/advanced-ip-workflow
+1393,1417,Media Distribution System,mds1,mds1
+1395,1418,Media Distribution System - Tech Specs,tech-specs,mds1/tech-specs
+1402,1426,MediaDS™ Media Resources,mds-media-resources,news-events/newsroom/media/mds-media-resources
+1403,1427,NewTek IP Series Media Resources,ip-series-media-resources,news-events/newsroom/media/ip-series-media-resources
+1404,1428,NewTek IP Series Video Mix Engine Media Resources,video-mix-engine-media-resources,news-events/newsroom/media/video-mix-engine-media-resources
+1405,1429,NewTek IP Series Studio Input Module Media Resources,input-media-resources,news-events/newsroom/media/input-media-resources
+1406,1430,NewTek IP Series Studio Output Module Media Resources,output-media-resources,news-events/newsroom/media/output-media-resources
+1407,1425,NewTek IP Series 4-Stripe Control Panel  Media Resources,4-stripe-control-panel-media-resources,news-events/newsroom/media/4-stripe-control-panel-media-resources
+1409,1433,House of Worship,house-of-worship,solutions/house-of-worship
+1410,1434,House of Worship Interfaith,house-of-worship-interfaith,solutions/house-of-worship-interfaith
+1411,620,Control Surfaces,control-surfaces,products/control-surfaces
+1412,1436,Education,education,solutions/education
+1414,1455,NewTek NDI™ Camera,ndi-camera,software/ndi-camera
+1418,17,Contact Us,contact-us,contact-us
+1419,1469,NDI Tools,tools,ndi/tools
+1420,1283,Tech Specs,tech-specs,tricaster/8000/tech-specs
+1420,1470,Tricaster 8000 - Tech Specs ,tech-specs-redesign,tricaster/8000/tech-specs-redesign
+1421,616,Tech Specs,tricaster-40-techspecs,products/tricaster-40/tricaster-40-techspecs
+1422,1294,460,460,tricaster/400-series/tech-specs/460
+1423,1295,410,410,tricaster/400-series/tech-specs/410
+1424,1044,Tricaster 860 Tech Specs,tech-specs,products/tricaster-860/tech-specs
+1425,1174,Tricaster Mini Tech Specs,tech-specs,products/tricaster-mini/tech-specs
+1426,1205,3Play Mini Tech Specs,tech-specs,products/3play-mini/tech-specs
+1427,1337,Tech Specs,tech-specs,3play/425/tech-specs
+1428,1332,Tech Specs,tech-specs,3play/440/tech-specs
+1430,1327,Tech Specs,tech-specs,3play/4800/tech-specs
+1432,1471,NDI SDK,sdk,ndi/sdk
+1433,1472,AutoLink for Panasonic PTZ,autolink-panasonicptz,software/autolink-panasonicptz
+1436,1459,Get Support,get-support,support/get-support
+1437,1476,About Us Testing,who-we-are-testing,company-296/who-we-are-testing
+1438,1478,About Us Testing 2,who-we-are-testing-2,company-296/who-we-are-testing-2

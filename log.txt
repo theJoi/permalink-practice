@@ -1,0 +1,13 @@
+Starting script and reading in _data/article-urls.csv ....
+  Opening 2014-04-03-1390-video-mix-engine-in-depth-v2.markdown...  Permalink already set to: /ip-series/video-mix-engine/in-depth
+  Opening 2014-10-06-1225-tricaster-mini-interface.markdown...  Permalink already set to: /products/tricaster-mini/interface
+  Opening 2014-10-06-1226-tricaster-mini-system-diagram.markdown...  Permalink already set to: /products/tricaster-mini/system-diagram
+  Opening 2015-11-16-1359-ndi-v2.markdown...  Permalink already set to: /ndi
+  Opening 2016-03-24-1323-ndi-media-resources.markdown...  Permalink already set to: /news-events/newsroom/media/ndi-media-resources
+  Opening 2016-12-13-welcome-to-jekyll.markdown...  Permalink already set to: /hello/
+  Opening 2016-12-14-About.markdown...  Permalink already set to: /about-me/
+  Opening 2016-12-14-test.markdown...  Permalink already set to: /hi-test/
+  Opening 2016-12-14-test2.markdown...  No permalink, leaving as default.
+  Opening 2016-12-14-test3.markdown...  Permalink already set to: /test3/
+  Opening 2016-12-16-test-article1.markdown...  Permalink already set to: /test/article1/
+END :)

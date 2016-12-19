@@ -4,6 +4,7 @@ title: NDI V2
 joomla_id: 1359
 joomla_url: ndi-v2
 date: 2015-11-16 17:13:45.000000000 -06:00
+permalink: /ndi
 ---
 <link rel="stylesheet" type="text/css" href="/templates/newtekv2/css/custom/ndi.css" />
 <style scoped="scoped" type="text/css">
