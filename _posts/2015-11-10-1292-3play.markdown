@@ -1,0 +1,83 @@
+---
+layout: post
+title: 3Play
+joomla_id: 1292
+joomla_url: 3play
+date: 2015-11-10 15:52:00.000000000 -06:00
+permalink: /3play
+menu_id: 1300
+---
+<link type="text/css" rel="stylesheet" href="/templates/newtekv2/css/custom/3play.css" />
+<style scoped="scoped" type="text/css">
+	<!-- .cta-bar {
+		padding: 40px 30px;
+		margin: 60px -50px!important;
+	}
+	-->
+</style>
+<div class="centered-content frame2">
+	<h2>Captivate more viewers at your events—and beyond.</h2>
+	<p class="sub-heading">Gain a competitive advantage with 3Play.</p>
+	<p>Venues looking to enhance the event atmosphere and extend their brands online, or broadcasters engaging audiences at home and increasing program exposure—anyone can use NewTek 3Play to make small events look like network-style shows and turn large events into experiences that audiences will never forget.</p>
+</div>
+<div class="cta-bar clearfix">
+	<h2 style="color: #fff;">Advanced Multi-Cam Editing</h2><a href="/3play/multi-cam-editing" class="cta">Learn More</a>
+</div>
+<div class="floating-feature">
+	<div class="feature p1">
+		<h3>Brand Like a Network</h3>
+		<p>Look better for fans and sponsors with built-in professional design elements to add even more sizzle and dramatic impact to replays and highlight reels.</p>
+	</div>
+	<div class="feature p2">
+		<h3>Capture Every Angle</h3>
+		<p>Serve up the best shot at the perfect moment and pump up the crowd with instant replay, slow-motion, custom animated transitions, and 3D warping video effects.</p>
+	</div>
+	<div class="feature p3">
+		<h3>Make More Shows</h3>
+		<p>Record every angle during the live event and capture everything you need to produce: weeks-in-review, coaches’ shows, recruitment reels, and promos.</p>
+	</div>
+	<div class="feature p4">
+		<h3>Log Events Live</h3>
+		<p>As fast as the action happens on the field or at the event, tag it with FastClip and find it later for replays, highlights, fan favorites, or bumpers.</p>
+	</div>
+	<div class="line l1">&nbsp;</div>
+	<div class="line l2">&nbsp;</div>
+	<div class="line l3">&nbsp;</div>
+	<div class="line l4">&nbsp;</div><img alt=" " title="" src="{{"images/product-3p4800-setup.jpg" | cdn }}" />
+</div>
+<div class="clearfix">
+	<div class="full-feature">
+		<h3>Multi-Angle Capture</h3>
+		<p>Monitor every angle of all live video sources. Switch between live shots, stored clips, and packages, and capture everything for live shows and post-production.</p>
+	</div>
+	<div class="full-feature">
+		<h3>Side-by-Side Playback</h3>
+		<p>Game-clock overlay and picture-in-picture simultaneous playback, make it possible for refs to tackle the tough decisions, while fans relive the drama and analysts provide the deeper story.</p>
+	</div>
+	<div class="full-feature">
+		<h3>Multi-Speed Playback</h3>
+		<p>Replay more dramatically—in real time, hyperspeed, or slo-mo—with razor-sharp clarity using pre-set or manual operation with your standard HD and SD cameras.</p>
+	</div>
+</div>
+<div class="heading-bar">
+	<h2>Complete sports production.</h2>
+	<p>3Play is a turnkey sports video production solution that gives you the creative control to attract new fans, bigger audiences, and more sponsors at a cost that puts replay in reach—and complete sports production at your fingertips.</p>
+</div>
+<div class="clearfix">
+	<div class="full-feature">
+		<h3>Real-Time Overlays</h3>
+		<p>Display, position, scale, and crop any live or pre-produced video, animation, motion graphics, or network input source—even your telestration key drawn right over live programming.</p>
+	</div>
+	<div class="full-feature">
+		<h3>High-End Visuals</h3>
+		<p>Get the highest production value with already-included real-time cloth transitions, 3D video warping, and image transformations, or create custom animated transitions with the built-in Animation Store Creator app.</p>
+	</div>
+	<div class="full-feature">
+		<h3>Highlight Clips</h3>
+		<p>Audio, playback speed, transitions, and music let you transform top plays, turning-point decisions, and epic encounters into highlight reels for fans to relive the game.</p>
+	</div>
+</div>
+<div class="product-list-heading align-center">
+	<h2>Make the most of your budget. Choose your 3Play system.</h2>
+	<p>Deliver the best fan experience, the biggest events, and top-tier sponsor value with the most complete sports production systems on the planet—3Play.</p>
+</div>

@@ -5,6 +5,7 @@ joomla_id: 1390
 joomla_url: video-mix-engine-in-depth-v2
 date: 2014-04-03 18:43:13.000000000 -05:00
 permalink: /ip-series/video-mix-engine/in-depth
+menu_id: 1412
 ---
 <link type="text/css" rel="stylesheet" href="/templates/newtekv2/css/custom/ip-series-vme-sub.css" />
 <style scoped="scoped" type="text/css">

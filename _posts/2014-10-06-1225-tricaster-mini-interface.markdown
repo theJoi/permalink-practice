@@ -5,6 +5,7 @@ joomla_id: 1225
 joomla_url: tricaster-mini-interface
 date: 2014-10-06 20:02:43.000000000 -05:00
 permalink: /products/tricaster-mini/interface
+menu_id: 1173
 ---
 <p><img src="{{"images/pro-line/TriCaster-Mini/Numbered_MINI_Interface.png" | cdn }}" alt="Numbered MINI Interface" width="720" height="405" />
 </p>
