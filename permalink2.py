@@ -13,13 +13,16 @@ with open("_data/article-urls.csv", 'rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar="'")
     for row in reader:
         articleURLs[row[0]] = {
-            'menuid':row[2],
+            'menuid':row[1],
             'path':row[4]
         }
 
 # Loop through all files in _post directory
 files = os.listdir("_posts")
 for file in files:
+    # ignore directories
+    if os.path.isdir(os.path.join("_posts/", file)):
+         continue
     print "  Opening %s..." % file,
     with open("_posts/" + file, "r") as f:
 
