@@ -36,5 +36,5 @@ exclude:
 port: 4002
 permalink: /:year/:slug/
 
-includes:
+collections:
   - modules
