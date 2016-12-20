@@ -1,0 +1,13 @@
+---
+layout: module
+title: AAG 2013
+joomla_module_id: 156
+position: rightside
+---
+<div style="width:200px;">
+<!--<a target="_blank" href="http://ad43f4f6b5f329b4090d-5e101be55b1e56211220ce2f6c976655.r85.cf1.rackcdn.com/2013-AAVC-FaxNomination.pdf" class="blue_button_small" width="210">Nomination Form</a> <a href="http://ad43f4f6b5f329b4090d-5e101be55b1e56211220ce2f6c976655.r85.cf1.rackcdn.com/2013AAVC-TermsConditions.pdf" target="_blank" class="blue_button_small">Terms &amp; Conditions</a> <a target="_blank" href="http://ad43f4f6b5f329b4090d-5e101be55b1e56211220ce2f6c976655.r85.cf1.rackcdn.com/logos.zip" class="blue_button_small">Logos &amp; Art</a> --><a target="_blank" href="https://www.facebook.com/media/set/?set=a.494273253814.277764.52869223814" class="blue_button_small">Past Photos</a><br /><center><a href="http://www.facebook.com/newtekinc" target="_blank"><img src="{{"images/stories/marketing/new-facebook.png" | cdn }}" style="padding-right: 10px;" border="0" /></a> <a href="http://twitter.com/newtekinc" target="_blank"><img src="{{"images/stories/marketing/new-twitter.png" | cdn }}" style="padding-right: 10px;" border="0" /></a><a href="http://www.usarmyallamericanbowl.com/" target="_blank"><img src="http://c3366637.r37.cf0.rackcdn.com/aag-aablinkimg.png" | cdn }}" border="0" height="34" width="53" /></a></center>
+<div class="imgborder" style="margin-top: 20px;">
+<p style="font-size: 10pt; padding: 10px;"><i><span style="font-size: 20pt;">“</span>Being a member of the All-American Video Crew opens doors for you … and it looks really good on a college or job application.<span style="font-size: 20pt;">”</span></i></p>
+<p style="font-size: 9pt; margin-top: -10px; padding-right: 10px; padding-bottom: 10px;" align="right">Dylan Allred,<br /> 2012 AAVC Member</p>
+</div>
+</div>
