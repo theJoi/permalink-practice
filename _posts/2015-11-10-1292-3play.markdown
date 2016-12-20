@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: product-family
 title: 3Play
 joomla_id: 1292
 joomla_url: 3play
 date: 2015-11-10 15:52:00.000000000 -06:00
 permalink: /3play
 menu_id: 1300
+modules: [839,853,854,855,856,857,866,895,898,899]
 ---
 <link type="text/css" rel="stylesheet" href="/templates/newtekv2/css/custom/3play.css" />
 <style scoped="scoped" type="text/css">
