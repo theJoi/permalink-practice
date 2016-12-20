@@ -41,10 +41,12 @@ for file in files:
 
         # Check if article id is in sitemap data
         if articleID and articleID in articleURLs:
+            #add permalink and menu id to front matter
             url = "permalink: /%s\n" % articleURLs[articleID]['path']
+            menu = "menu_id: %s\n" % articleURLs[articleID]['menuid']
             pos = content.find("---")
             pos = content.find("---", pos+1)
-            content = content[0:pos] + url + content[pos:]
+            content = content[0:pos] + url + menu + content[pos:]
 
             with open("_posts/" + file, "w") as f:
                 f.write(content)
