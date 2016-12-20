@@ -35,3 +35,6 @@ exclude:
 # Joi's custom settings
 port: 4002
 permalink: /:year/:slug/
+
+includes:
+  - modules

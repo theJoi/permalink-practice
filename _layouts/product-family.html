@@ -1,0 +1,39 @@
+<!--
+ -- Layout:  Product Downloads
+ -- File:    templates/newtekv2/layouts/product-downloads.php
+ -- Styles:  templates/newtekv2/css/layouts/downloads.css
+ -- Author:  Ryan Goree
+ -- Created: 10/05/2015
+ -->
+<div id="contentwrap">
+	<div id="content" class="clearfix">
+		<div id="main" class="clearfix">
+		<!-- TODO: change page.modules to site.data.modules once available -->
+		{% for module in page.modules %}
+            <p>{{ module }}</p>
+		{% endfor %}
+		<ul>
+		{% for page in site.pages %}
+            {% if {{page.position}} == 'banner' and {{page.joomla_module_id}} == 839 %}
+		    <li style="color:blue;">{{page.path}}</li>
+           {% assign banner-module = {{page.path}} %}
+            {% endif %}
+		{% endfor %}
+           {% include {{banner-module}} %}
+            </ul>
+			<!--
+			<?php if($this->countModules('sticky-nav')) : ?>
+				<div class="sticky-nav-container">
+
+					<!-- include module position: sticky-nav -->
+					<!--<jdoc:include type="modules" name="sticky-nav" />
+
+				</div>
+				<script src="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/js/sticky-nav.js"></script>
+			<?php endif; ?>
+			End of sticky-na
+			-->
+			{{content}}
+		</div>
+	</div>
+</div>

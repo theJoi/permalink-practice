@@ -1,3 +1,13 @@
+#######################################
+# permalink.py
+#
+# CREATED BY: Joi Williams 12/16/16
+#
+# DESCRIPTION: Adds permalinks and
+# menu ids to YAML Front Matter to
+# posts, based on csv data.
+#
+#######################################
 import re
 import os
 import json
