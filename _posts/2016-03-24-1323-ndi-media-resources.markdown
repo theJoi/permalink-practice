@@ -6,6 +6,7 @@ joomla_url: ndi-media-resources
 date: 2016-03-24 06:31:00.000000000 -05:00
 permalink: /news-events/newsroom/media/ndi-media-resources
 menu_id: 1353
+menu_id: 1353
 ---
 <h2>NDI<sup style="font-size: .47em;">TM</sup> Network Device Interface Protocol</h2>
 <p><strong>10 Word Description</strong> – An open protocol enabling IP video workflows across standard GigE networks.</p>
