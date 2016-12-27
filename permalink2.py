@@ -14,12 +14,20 @@ import os
 import json
 import codecs
 import csv
+import sys
 
-print "Starting script and reading in _data/article-urls.csv ...."
-
+overwrite_mode = False
 articleURLs = {}
 
+# See if overwrite flag was enabled
+if len(sys.argv) > 1:
+    print sys.argv[1]
+    if sys.argv[1] == '-overwrite':
+        overwrite_mode = True
+        print "** Overwrite mode enabled **"
+
 # Open csv file with permalink data and add to articleURLs dictionary keyed by article id
+print "Starting script and reading in _data/article-urls.csv ...."
 with open("_data/article-urls.csv", 'rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar="'")
     for row in reader:
@@ -45,8 +53,8 @@ for file in files:
         permalink_matches = re.findall("permalink:.+\n", content)
         menuid_matches = re.findall("menu_id:.+\n", content)
 
-        # Do nothing if already has both permalink and menu id
-        if permalink_matches and menuid_matches:
+        # Do nothing if already has both permalink and menu id and overwrite mode isn't enabled
+        if permalink_matches and menuid_matches and not overwrite_mode:
             permalink = permalink_matches[0]
             permalink = permalink[len("permalink: "): -1]
             print " Permalink already set to: %s" % permalink
@@ -63,7 +71,16 @@ for file in files:
             if articleID and articleID in articleURLs:
                 url = ""
                 menuId = ""
+
+
+                # If in overwrite mode delete permalink and menu to be replaced
+                if overwrite_mode:
+                    if   permalink_matches:
+
+
+
                 # Add permalink and menu id to front matter
+
                 if not permalink_matches:
                     url = "permalink: /%s\n" % articleURLs[articleID]['path']
                     print "\n   No permalink, setting to: /%s" % articleURLs[articleID]['path']
