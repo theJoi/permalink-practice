@@ -3,8 +3,8 @@
 #
 # CREATED BY: Joi Williams 12/20/16
 #
-# DESCRIPTION: Generates a json dictionary
-# based on module
+# DESCRIPTION: Generates a YAML file
+# with module ids used for each menu id
 #
 #######################################
 import re
@@ -15,7 +15,7 @@ import csv
 
 print "Starting script and reading in _data/module-list.csv ...."
 
-moduleMenuList = [[]]
+moduleMenuList = {}
 
 # Open csv file with permalink data and add to moduleMenu list keyed by menu id
 with open("_data/module-list.csv", 'rb') as csvfile:
@@ -25,47 +25,21 @@ with open("_data/module-list.csv", 'rb') as csvfile:
         if firstline:
             firstline = False
         else:
-            moduleMenuList[int(row[1])].append(row[0])
-            print moduleMenuList
+            moduleid = row[0]
+            menuid = row[1]
+            # See if menu id is already on list
+            if menuid in moduleMenuList:
+                moduleMenuList[menuid].append(moduleid)
+            else:
+                moduleMenuList[menuid] = []
+                moduleMenuList[menuid].append(moduleid)
 
-print moduleMenuList
-## Loop through all files in _post directory
-#files = os.listdir("_posts")
-#for file in files:
-#    # ignore directories
-#    if os.path.isdir(os.path.join("_posts/", file)):
-#         continue
-#    print "  Opening %s..." % file,
-#    with open("_posts/" + file, "r") as f:
-#
-#      content = f.read()
-#
-#      # Check if post already has permalink
-#      permalinks = re.findall("permalink:.+\n", content)
-#
-#      if permalinks:
-#        permalink = permalinks[0]
-#        permalink = permalink[len("permalink: "): -1]
-#        print " Permalink already set to: %s" % permalink
-#      else :
-#        matches = re.findall("joomla_id:.+\n", content)
-#        articleID = None
-#        if matches:
-#            articleID = re.findall("joomla_id:.+\n", content)[0]
-#            articleID = articleID[len("joomla_id: "): -1]
-#
-#        # Check if article id is in sitemap data
-#        if articleID and articleID in articleURLs:
-#            #add permalink and menu id to front matter
-#            url = "permalink: /%s\n" % articleURLs[articleID]['path']
-#            menu = "menu_id: %s\n" % articleURLs[articleID]['menuid']
-#            pos = content.find("---")
-#            pos = content.find("---", pos+1)
-#            content = content[0:pos] + url + menu + content[pos:]
-#
-#            with open("_posts/" + file, "w") as f:
-#                f.write(content)
-#                print "\n   No permalink, setting to: /%s" % articleURLs[articleID]['path']
-#        else:
-#            print " No permalink, leaving as default."
-#print "END :)"
+# Create, open and write to module_list.yml
+with open("_data/module_list.yml", "w") as f:
+    for menuid in moduleMenuList:
+        f.write("- menu_id: %s\n" % menuid)
+        f.write("  module_ids:\n")
+        for moduleid in moduleMenuList[menuid]:
+             f.write("    - %s\n" % moduleid)
+
+print "END :)"
