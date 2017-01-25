@@ -1,7 +1,7 @@
 #######################################
-# module.py
+# csv-to-yaml.py
 #
-# CREATED BY: Joi Williams 12/20/16
+# CREATED BY: Joi Williams 01/03/2017
 #
 # DESCRIPTION: Takes a two-column csv file
 # and generates YAML data so it can easily
